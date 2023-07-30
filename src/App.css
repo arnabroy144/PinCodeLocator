@@ -1,0 +1,37 @@
+
+.App {
+  background-color: rgb(124, 118, 118);
+  text-align: center;
+  box-shadow: 10px 0px 10px 0px white;
+}
+.serial{
+  background-color: green;
+}
+.input{
+  text-align: center;
+  border-color: red;
+  border-radius: 10px;
+}
+.input:focus{
+  border:1px solid red;
+}
+label{
+  font-size: larger;
+  font-weight: bold;
+}
+button{
+ font-size: 20px;
+ background-color: black;
+ color: white;
+ border-radius:10px ;
+ border: none;
+}
+button:hover{
+  background-color: rgb(32, 35, 233);
+  border: none;
+ }
+h1{
+  color: chartreuse;
+  font-style: italic;
+  text-shadow: 2px 2px 4px black;
+}
